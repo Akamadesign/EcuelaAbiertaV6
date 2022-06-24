@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: dd261cca54a3f684a915e6af6af1b85e
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 2340673111643952546
+    second: 2k_sun.001|2k_sunAction.001
+  - first:
+      74: 6071123271609994220
+    second: 2k_sun.001|2k_sunAction.003
+  - first:
+      74: -1168250247072381038
+    second: 2k_sun.001|2k_sunAction.005
+  - first:
+      74: -4385990451965217433
+    second: 2k_sun.001|2k_sunAction.007
+  - first:
+      74: -6237709920362003397
+    second: 2k_sun.002|2k_sunAction.001
+  - first:
+      74: 7591220227265377723
+    second: 2k_sun.002|2k_sunAction.003
+  - first:
+      74: 3521229271341318415
+    second: 2k_sun.002|2k_sunAction.005
+  - first:
+      74: 3699024029970981357
+    second: 2k_sun.002|2k_sunAction.007
+  - first:
+      74: 1003133975527235805
+    second: 2k_sun.003|2k_sunAction.001
+  - first:
+      74: -7454996037200304540
+    second: 2k_sun.003|2k_sunAction.003
+  - first:
+      74: 7248266310592471027
+    second: 2k_sun.003|2k_sunAction.005
+  - first:
+      74: 2108393109473687294
+    second: 2k_sun.003|2k_sunAction.007
+  - first:
+      74: -4918665861647979803
+    second: 2k_sun.004|2k_sunAction.001
+  - first:
+      74: -1179789865282489275
+    second: 2k_sun.004|2k_sunAction.003
+  - first:
+      74: -8553579318051279544
+    second: 2k_sun.004|2k_sunAction.005
+  - first:
+      74: -4121209969360375023
+    second: 2k_sun.004|2k_sunAction.007
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 3
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

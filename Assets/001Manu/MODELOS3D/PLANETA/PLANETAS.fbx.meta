@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 90a37b2921f83f24a891244c4b6dac46
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 7401631716254623862
+    second: 2k_mars|2k_marsAction
+  - first:
+      74: 519665541012700849
+    second: 2k_mars|2k_mercuryAction
+  - first:
+      74: 2707904350214416553
+    second: 2k_mars|2k_moonAction
+  - first:
+      74: -8960624910918344674
+    second: 2k_mars|2k_neptuneAction
+  - first:
+      74: -1511507703128881124
+    second: 2k_mars|2k_saturnAction
+  - first:
+      74: 840169776937987201
+    second: 2k_mars|2k_sunAction
+  - first:
+      74: -8471755704052992781
+    second: 2k_mars|2k_uranusAction
+  - first:
+      74: 8982464745209709788
+    second: 2k_mars|CameraAction
+  - first:
+      74: 3971628789345230368
+    second: 2k_mars|CircleAction
+  - first:
+      74: 7953104275736857843
+    second: 2k_mars|Earth_Diffuse_6KAction
+  - first:
+      74: 8696450159337142888
+    second: 2k_mars|Shader NodetreeAction
+  - first:
+      74: -2151465748658634703
+    second: 2k_mercury|2k_marsAction
+  - first:
+      74: -7009152106613012576
+    second: 2k_mercury|2k_mercuryAction
+  - first:
+      74: -3705894167435642897
+    second: 2k_mercury|2k_moonAction
+  - first:
+      74: -5360038157547424670
+    second: 2k_mercury|2k_neptuneAction
+  - first:
+      74: -2000902146674298789
+    second: 2k_mercury|2k_saturnAction
+  - first:
+      74: -5442369700008629
+    second: 2k_mercury|2k_sunAction
+  - first:
+      74: -7924178886442081005
+    second: 2k_mercury|2k_uranusAction
+  - first:
+      74: 63486368605797907
+    second: 2k_mercury|CameraAction
+  - first:
+      74: -4671656370893959241
+    second: 2k_mercury|CircleAction
+  - first:
+      74: -7417531334767226207
+    second: 2k_mercury|Earth_Diffuse_6KAction
+  - first:
+      74: 440497356204196795
+    second: 2k_mercury|Shader NodetreeAction
+  - first:
+      74: 5463239996322292200
+    second: 2k_moon|2k_marsAction
+  - first:
+      74: -8829545862682181246
+    second: 2k_moon|2k_mercuryAction
+  - first:
+      74: 5359464472374888642
+    second: 2k_moon|2k_moonAction
+  - first:
+      74: 8693248919896534762
+    second: 2k_moon|2k_neptuneAction
+  - first:
+      74: 5239624438835308545
+    second: 2k_moon|2k_saturnAction
+  - first:
+      74: 5392853425900505289
+    second: 2k_moon|2k_sunAction
+  - first:
+      74: -9105458642822522056
+    second: 2k_moon|2k_uranusAction
+  - first:
+      74: 7214831597135281571
+    second: 2k_moon|CameraAction
+  - first:
+      74: -7924476855356519562
+    second: 2k_moon|CircleAction
+  - first:
+      74: -3731189824985263147
+    second: 2k_moon|Earth_Diffuse_6KAction
+  - first:
+      74: -639693021841816930
+    second: 2k_moon|Shader NodetreeAction
+  - first:
+      74: 619204356987213529
+    second: 2k_neptune|2k_marsAction
+  - first:
+      74: -5037877223311055578
+    second: 2k_neptune|2k_mercuryAction
+  - first:
+      74: 3522833802858240861
+    second: 2k_neptune|2k_moonAction
+  - first:
+      74: -7232081240329126161
+    second: 2k_neptune|2k_neptuneAction
+  - first:
+      74: -3214672250466677576
+    second: 2k_neptune|2k_saturnAction
+  - first:
+      74: -5481326919058813070
+    second: 2k_neptune|2k_sunAction
+  - first:
+      74: -3330207373695165438
+    second: 2k_neptune|2k_uranusAction
+  - first:
+      74: -6239529621151632853
+    second: 2k_neptune|CameraAction
+  - first:
+      74: 8662573681328864943
+    second: 2k_neptune|CircleAction
+  - first:
+      74: 1809603683359134471
+    second: 2k_neptune|Earth_Diffuse_6KAction
+  - first:
+      74: -8223169819193603769
+    second: 2k_neptune|Shader NodetreeAction
+  - first:
+      74: -570066078108883883
+    second: 2k_saturn|2k_marsAction
+  - first:
+      74: 5198165630716057879
+    second: 2k_saturn|2k_mercuryAction
+  - first:
+      74: -7825693574706699731
+    second: 2k_saturn|2k_moonAction
+  - first:
+      74: -1840440196953780710
+    second: 2k_saturn|2k_neptuneAction
+  - first:
+      74: 1224885149104467391
+    second: 2k_saturn|2k_saturnAction
+  - first:
+      74: -6533790851272936904
+    second: 2k_saturn|2k_sunAction
+  - first:
+      74: -4146010269032092445
+    second: 2k_saturn|2k_uranusAction
+  - first:
+      74: 3660821387164457448
+    second: 2k_saturn|CameraAction
+  - first:
+      74: -3289893157043424613
+    second: 2k_saturn|CircleAction
+  - first:
+      74: 9019175782265223606
+    second: 2k_saturn|Earth_Diffuse_6KAction
+  - first:
+      74: 2648761897841637344
+    second: 2k_saturn|Shader NodetreeAction
+  - first:
+      74: 8598146087428651037
+    second: 2k_sun|2k_marsAction
+  - first:
+      74: 1165901328190060199
+    second: 2k_sun|2k_mercuryAction
+  - first:
+      74: 1542246542512186704
+    second: 2k_sun|2k_moonAction
+  - first:
+      74: 7338368775513211463
+    second: 2k_sun|2k_neptuneAction
+  - first:
+      74: -3169030877561766703
+    second: 2k_sun|2k_saturnAction
+  - first:
+      74: -6816720859585725061
+    second: 2k_sun|2k_sunAction
+  - first:
+      74: 1533728807994139272
+    second: 2k_sun|2k_uranusAction
+  - first:
+      74: 4106626024761947360
+    second: 2k_sun|CameraAction
+  - first:
+      74: -7804555326588573675
+    second: 2k_sun|CircleAction
+  - first:
+      74: 6716266969050646687
+    second: 2k_sun|Earth_Diffuse_6KAction
+  - first:
+      74: 2914515088462773332
+    second: 2k_sun|Shader NodetreeAction
+  - first:
+      74: 4690198012400684350
+    second: 2k_uranus|2k_marsAction
+  - first:
+      74: 9222783575984105366
+    second: 2k_uranus|2k_mercuryAction
+  - first:
+      74: 9096858785486393519
+    second: 2k_uranus|2k_moonAction
+  - first:
+      74: 589112135357893849
+    second: 2k_uranus|2k_neptuneAction
+  - first:
+      74: 3645308628500958339
+    second: 2k_uranus|2k_saturnAction
+  - first:
+      74: 5173407601286842309
+    second: 2k_uranus|2k_sunAction
+  - first:
+      74: -3627056432716322944
+    second: 2k_uranus|2k_uranusAction
+  - first:
+      74: -3451452661380738457
+    second: 2k_uranus|CameraAction
+  - first:
+      74: 7775005244215933935
+    second: 2k_uranus|CircleAction
+  - first:
+      74: 7928325720445904515
+    second: 2k_uranus|Earth_Diffuse_6KAction
+  - first:
+      74: -7029480296304843286
+    second: 2k_uranus|Shader NodetreeAction
+  - first:
+      74: 8900743452534672323
+    second: Earth_Diffuse_6K|2k_marsAction
+  - first:
+      74: 5151572935622457944
+    second: Earth_Diffuse_6K|2k_mercuryAction
+  - first:
+      74: -6085965313238979410
+    second: Earth_Diffuse_6K|2k_moonAction
+  - first:
+      74: 5658213038880975872
+    second: Earth_Diffuse_6K|2k_neptuneAction
+  - first:
+      74: 7949950576751921342
+    second: Earth_Diffuse_6K|2k_saturnAction
+  - first:
+      74: -6360385048807029155
+    second: Earth_Diffuse_6K|2k_sunAction
+  - first:
+      74: -1171282950199057742
+    second: Earth_Diffuse_6K|2k_uranusAction
+  - first:
+      74: -5979425492197702292
+    second: Earth_Diffuse_6K|CameraAction
+  - first:
+      74: 7909276730876659307
+    second: Earth_Diffuse_6K|CircleAction
+  - first:
+      74: -519068908467092364
+    second: Earth_Diffuse_6K|Earth_Diffuse_6KAction
+  - first:
+      74: -2130202491840492211
+    second: Earth_Diffuse_6K|Shader NodetreeAction
+  - first:
+      74: 6921330014857136349
+    second: Saturno|2k_marsAction
+  - first:
+      74: 3591469214913609478
+    second: Saturno|2k_mercuryAction
+  - first:
+      74: 2543523813707242510
+    second: Saturno|2k_moonAction
+  - first:
+      74: 991735715200001400
+    second: Saturno|2k_neptuneAction
+  - first:
+      74: 2197921086927106306
+    second: Saturno|2k_saturnAction
+  - first:
+      74: 7063076991421839790
+    second: Saturno|2k_sunAction
+  - first:
+      74: -2467824267999853135
+    second: Saturno|2k_uranusAction
+  - first:
+      74: 5201748060324215197
+    second: Saturno|CameraAction
+  - first:
+      74: -703168065266751236
+    second: Saturno|CircleAction
+  - first:
+      74: 750698456681323059
+    second: Saturno|Earth_Diffuse_6KAction
+  - first:
+      74: 5510855197177102477
+    second: Saturno|Shader NodetreeAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2k_jupiter
+    second: {fileID: 2100000, guid: 80116355e7e647d4788ee41bec931c26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2k_mars
+    second: {fileID: 2100000, guid: 3fe7b4d0776f0514c91d2d02ba1fb02e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2k_mercury
+    second: {fileID: 2100000, guid: 6b8811c6b2f44124f9278342416b3661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2k_moon
+    second: {fileID: 2100000, guid: 077532c72cec15f47b2d4f4464207ff7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2k_neptune
+    second: {fileID: 2100000, guid: 988152896d8ca1c45a43d89f008686ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2k_saturn
+    second: {fileID: 2100000, guid: 1c0e0f675dc2d4942b661e8a18d3e6da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2k_sun
+    second: {fileID: 2100000, guid: 2f178c50cc899384390c27a3301fb2d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2k_uranus
+    second: {fileID: 2100000, guid: 034b02d20dc6a454799fe5c298b89014, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Earth_Diffuse_6K
+    second: {fileID: 2100000, guid: 7d2561c1999b9eb48a8fbdd863902f68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 0aff18ae51b869142a6b6fed2e8fbb09, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2k_jupiter
+    second: {fileID: 2800000, guid: 450a77bc02390f843862ab469a80cf63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2k_mars
+    second: {fileID: 2800000, guid: 26ead633cd47e4b4d94c9a095e10e298, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2k_mercury
+    second: {fileID: 2800000, guid: ccf3ca48cc93a594e804b334344b4403, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2k_moon
+    second: {fileID: 2800000, guid: 90d0b81551f7ad14e9188514f5a92c0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2k_neptune
+    second: {fileID: 2800000, guid: 16d79ffc9419afa4ba5280fd457b3c70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2k_saturn
+    second: {fileID: 2800000, guid: 414656e855491984aa45e1b8bfefa4ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2k_saturn_ring_alpha
+    second: {fileID: 2800000, guid: d48060694f692be4eaeb8ab6bdd42d6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2k_sun
+    second: {fileID: 2800000, guid: cb689aae6a6db764b8a77db6414b81c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2k_uranus
+    second: {fileID: 2800000, guid: 55079c22255180b42801034dcf4da4bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Earth_Diffuse_6K
+    second: {fileID: 2800000, guid: 08f35743e57ef4a4691d7f1e0db7a969, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Earth_NormalNRM_6K
+    second: {fileID: 2800000, guid: 8089b7d4e2b6a6248b4c8861bd3e6421, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
